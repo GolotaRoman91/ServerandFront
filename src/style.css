@@ -1,17 +1,25 @@
-.firstName {
-    margin: 10px;
-}
-
-.secondName {
-    margin: 10px;
-}
-
-.formToServer {
-    margin-left: 35%;
-    margin-top: 10%;
+body {
+	background: #DCDDDF url(https://cssdeck.com/uploads/media/items/7/7AF2Qzt.png);
+	color: #000;
+	font: 14px Arial;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
 }
 
 .sendButton {
-    margin-left: 38%;
-    margin-top: 1%;
+   margin-top: 1%;
+   padding:10px;
+   border-radius:10px;
 }
+
+.formPlate {
+    margin-left: 40%;
+    margin-top: 17%;
+}
+
+input {
+    padding:10px;
+    border-radius:10px;
+}
+
